@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859673943884",
+    "project_id": "lemuellistycity",
+    "storage_bucket": "lemuellistycity.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859673943884:android:e54b2523781adef4bcf9e9",
+        "android_client_info": {
+          "package_name": "com.example.listycity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7e2KKW_gY0UtCPWa5114nN3CZD-frsi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
